@@ -2,11 +2,11 @@ The Image Colorization Using Deep Learning project aims to automatically convert
 
 This project demonstrates the application of Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), and Computer Vision techniques in solving real-world image processing problems.
 
- Problem Statement
+ Problem Statemen -
 
 Old photographs, historical archives, and grayscale images often lack visual information due to the absence of colors. Manually colorizing such images is time-consuming and requires expertise. The objective of this project is to automate the colorization process using deep learning techniques.
 
- Solution
+ Solution - 
 
 The proposed solution uses a pretrained CNN model that learns semantic understanding from millions of images. The model predicts color channels for grayscale images and reconstructs realistic colorized outputs.
 
