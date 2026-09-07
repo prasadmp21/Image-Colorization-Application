@@ -164,12 +164,12 @@ Digital photography enhancement
 
 Through this project, I gained practical experience in:
 
-Artificial Intelligence
-Machine Learning
-Deep Learning
-Computer Vision
-Convolutional Neural Networks
-OpenCV DNN
-Image Processing
-Model Inference
-Data Preprocessing and Post-processing
+-Artificial Intelligence
+-Machine Learning
+-Deep Learning
+-Computer Vision
+-Convolutional Neural Networks
+-OpenCV DNN
+-Image Processing
+-Model Inference
+-Data Preprocessing and Post-processing
